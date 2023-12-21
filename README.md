@@ -24,7 +24,7 @@ Output: no
 Number of edits is 2
 
 Input:  s1 = "gold", s2 = "bold"
-Output: si
+Output: yes
 Number of edits is 1
 ```
 
