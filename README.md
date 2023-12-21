@@ -1,6 +1,6 @@
 # Single distance between two strings
 
-Given two string `s1` and `s2`, find if `s1` can be converted to `s2` with exactly one change. This change can be one of the following:
+Given two string `s1` and `s2`, find if `s1` can be converted to `s2` with exactly one change. This change could be one of the following:
   - Add a character
   - Delete a character
   - Change a character
