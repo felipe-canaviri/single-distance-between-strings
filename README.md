@@ -22,6 +22,10 @@ Number of edits is 1
 Input:  s1 = "point", s2 = "coin"
 Output: no
 Number of edits is 2
+
+Input:  s1 = "gold", s2 = "bold"
+Output: si
+Number of edits is 1
 ```
 
 Create a method to verify that the given strings have a single distance between them.
